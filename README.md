@@ -1,4 +1,4 @@
-# RobloxEXF
+# Roblox-Exclusive-Fullscreen 
 Run roblox in Exclusive-Fullscreen to fix common FPS issues for low end computers
 
 # Introduction
